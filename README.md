@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eliott</h1>
-<h3 align="center">I am a ✨french✨ developer, video and photo editor</h3>
+<h3 align="center">I am a ✨french✨ developer, video editor and photographer</h3>
 
 <p align="center">
   <b>🖤 Follow me here:</b><br>
